@@ -17,6 +17,12 @@
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
       "reminder": false
+    },
+    {
+      "text": "Hafsa Appointment ",
+      "day": "July 12th at 5.30 PM",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
